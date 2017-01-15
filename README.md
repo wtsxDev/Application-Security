@@ -1,6 +1,6 @@
-# Resources for learning about application security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://www.kalitut.com)
-<div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://4.bp.blogspot.com/-F0eugSId8HA/WHtcvsZw6_I/AAAAAAAABzc/rz_9AZdIVFUKmIvC7yHaSRi1KzqdrKvXACLcB/s1600/Application-Security.png" width="400" height="210" /></a></div>
+# Resources for learning about application security
+[![Awesome](https://4.bp.blogspot.com/-F0eugSId8HA/WHtcvsZw6_I/AAAAAAAABzc/rz_9AZdIVFUKmIvC7yHaSRi1KzqdrKvXACLcB/s1600/Application-Security.png)](http://www.kalitut.com)
+
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
 
