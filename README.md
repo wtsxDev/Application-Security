@@ -165,7 +165,7 @@ Investing more time and personnel to develop secure software is, for most compan
 A **must-read** for anyone looking to build their own cryptography features.
 
 ## Books
-
+# Books from Amazon.com
 ### [Web Application Hacker's Handbook](http://amzn.to/2jM2BvG) (2011)
 **Released**: September 27, 2011
 Great introduction to Web Application Security; though slightly dated.
@@ -327,10 +327,10 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 ## Books and ebooks
 
 ### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
-
 **Released**: May 24, 2006
-
 A community-maintained Wiki detailing secure coding standards for C programming.
+
+### [The CERT® C Coding Standard, Second Edition: 98 Rules for Developing Safe, Reliable, and Secure Systems (2nd Edition) (SEI Series in Software Engineering)](http://amzn.to/2jFJvbM) (2016)
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2016)
 
@@ -345,8 +345,9 @@ Provides guidelines for improving software security through secure coding. Cover
 ### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
 
 **Released**: July 18, 2006
-
 A community-maintained Wiki detailing secure coding standards for C++ programming.
+# Books from Amazon.com
+### [Secure Coding in C and C++ (2nd Edition) (SEI Series in Software Engineering)](http://amzn.to/2kfIx51) (April 12, 2013)
 
 # C Sharp
 
@@ -374,8 +375,17 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 Secure Java programming guidelines straight from Oracle.
 
+# Books from Amazon.com
+### [The CERT Oracle Secure Coding Standard for Java (SEI Series in Software Engineering)](http://amzn.to/2jNvFpX)(2011)
+
+### [Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs (SEI Series in Software Engineering)](http://amzn.to/2j1JbCg) (2013)
+
+
 # Node.js
 
+## Books 
+Links lead to Amazon.com
+### [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](http://amzn.to/2khbt0V) (2016)
 ## Articles
 
 ### [Node.js Security Checklist - Rising Stack Blog](https://blog.risingstack.com/node-js-security-checklist/) (2015)
@@ -451,8 +461,12 @@ Discusses the importance of end-to-end network-layer encryption (HTTPS) as well 
 *Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
 
 ### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
-
 You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
+
+# Books From amazon.com
+### [Pro PHP Security: From Application Security Principles to the Implementation of XSS Defenses](http://amzn.to/2j1Tnuq) (December 8, 2010)
+
+
 
 ## Useful libraries
 
@@ -528,7 +542,7 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
-###  [Violent Python](http://amzn.to/2jkPPI1)
+### [Violent Python : Amazon link](http://amzn.to/2jFURg0)
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
@@ -549,3 +563,6 @@ A wiki maintained by the OWASP Python Security project.
 **Released**: March 10, 2014
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+
+
+Credits to [paragonie-scott](https://github.com/paragonie/awesome-appsec)
