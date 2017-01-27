@@ -564,5 +564,12 @@ A wiki maintained by the OWASP Python Security project.
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
 
+Please have a look at
+* [Top Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Top Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Top Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Top 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Top Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
+
 
 Credits to [paragonie-scott](https://github.com/paragonie/awesome-appsec)
